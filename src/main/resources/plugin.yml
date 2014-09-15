@@ -1,0 +1,3 @@
+name: PrisonScoreboard
+main: com.mythbusterma.prisonscoreboard.Main
+version: {$version}
