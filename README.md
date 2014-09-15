@@ -19,4 +19,4 @@ By Mythbusterma & JnKTechstuff
 Server: mc.orekingdom.com
 Website: OreKingdom.com
 
-=====- Host Havoc Official Partners -=====
+======- Host Havoc Official Partners -======
